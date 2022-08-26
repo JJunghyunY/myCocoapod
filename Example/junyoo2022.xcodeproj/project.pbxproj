@@ -42,10 +42,10 @@
 		607FACE51AFB9204008FA782 /* junyoo2022_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = junyoo2022_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		60FDF5B56F3C668BFB6511A9 /* junyoo2022.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = junyoo2022.podspec; path = ../junyoo2022.podspec; sourceTree = "<group>"; };
+		60FDF5B56F3C668BFB6511A9 /* junyoo2022.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = junyoo2022.podspec; path = ../junyoo2022.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		64DBDD3AB9CDA97E35591496 /* Pods_junyoo2022_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_junyoo2022_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6BAE2D616E308A1FE5C4DC20 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		8A86D1D64E57A192B951995B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		6BAE2D616E308A1FE5C4DC20 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		8A86D1D64E57A192B951995B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D2ABA7E259BB13210BF2D0A6 /* Pods-junyoo2022_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-junyoo2022_Example.release.xcconfig"; path = "Target Support Files/Pods-junyoo2022_Example/Pods-junyoo2022_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -77,7 +77,6 @@
 				3138AAE755E8EB07C6F3BAF4 /* Pods-junyoo2022_Tests.debug.xcconfig */,
 				3A69EB25216B00A0316A5DEF /* Pods-junyoo2022_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

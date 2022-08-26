@@ -1,0 +1,22 @@
+{
+  "name": "junyoo2022",
+  "version": "0.1.0",
+  "summary": "A short description of junyoo2022.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JJunghyunY/junyoo2022",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JJunghyunY": "wjdgus995@hanmail.net"
+  },
+  "source": {
+    "git": "https://github.com/JJunghyunY/junyoo2022.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "junyoo2022/Classes/**/*"
+}

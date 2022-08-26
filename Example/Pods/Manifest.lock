@@ -1,0 +1,16 @@
+PODS:
+  - junyoo2022 (0.1.0)
+
+DEPENDENCIES:
+  - junyoo2022 (from `../`)
+
+EXTERNAL SOURCES:
+  junyoo2022:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  junyoo2022: 5d78da27d900e60800038471a8372c2dbd4bfc0b
+
+PODFILE CHECKSUM: 1c99344c2aebada512f19140e78bf9a5cb702abe
+
+COCOAPODS: 1.11.3
